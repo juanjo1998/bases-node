@@ -1,0 +1,27 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "proyecto numero 1 de node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjo1998/bases-node.git"
+  },
+  "keywords": [
+    "node-js",
+    "first-node-project"
+  ],
+  "author": "j2dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjo1998/bases-node/issues"
+  },
+  "homepage": "https://github.com/juanjo1998/bases-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  }
+}
